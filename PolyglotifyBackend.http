@@ -1,0 +1,6 @@
+@PolyglotifyBackend_HostAddress = http://localhost:5294
+
+GET {{PolyglotifyBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
